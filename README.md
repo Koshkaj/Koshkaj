@@ -1,13 +1,14 @@
 ### Welcome to my GitHub profile! 👋
 
-I'm Davit, a passionate Backend & DevOps Engineer with expertise in Go, Python, and Kubernetes. I love building scalable and efficient systems that power modern applications. 
+I'm Davit, a passionate Backend & DevOps Engineer with expertise in Go, Python, and Kubernetes. I love building scalable and efficient systems that power modern applications.
 
 ### 🔭 Technologies and Tools
-Programming Languages: Python, Go
-Databases: PostgreSQL, MongoDB, Redis
-Clouds: AWS, GCP, DigitalOcean
-DevOps: Kubernetes, Terraform, Ansible, Docker, Linux, CI/CD, Prometheus, Traefik Other: RabbitMQ, Kafka, GraphQL
-Certifications: Certified Kubernetes Application Developer/Certified Kubernetes Administrator
+- Programming Languages: Python, Go 
+
+- Databases: PostgreSQL, MongoDB, Redis
+- Clouds: AWS, GCP, DigitalOcean 
+- DevOps: Kubernetes, Terraform, Ansible, Docker, Linux, CI/CD, Prometheus, Traefik Other: RabbitMQ, Kafka, GraphQL
+- Certifications: Certified Kubernetes Application Developer/Certified Kubernetes Administrator
 
 
 ### 🌱 Current Focus
@@ -22,6 +23,7 @@ Exploring new technologies and tools to enhance my skills
 ### 💬 Let's Connect
 I'm always excited to meet fellow developers and discuss interesting ideas. Connect with me on:
 
-[LinkedIn](https://www.linkedin.com/in/dkoshkeli/)
-[Discord](https://discordapp.com/users/KoshkeliusJ#6919)
+- [LinkedIn](https://www.linkedin.com/in/dkoshkeli/)
+- [Discord](https://discordapp.com/users/KoshkeliusJ#6919)
+
 Feel free to reach out for collaborations, discussions, or even if you just want to say hi!
