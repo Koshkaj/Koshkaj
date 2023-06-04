@@ -7,7 +7,8 @@ I'm Davit, a passionate Backend & DevOps Engineer with expertise in Go, Python, 
 
 - Databases: PostgreSQL, MongoDB, Redis
 - Clouds: AWS, GCP, DigitalOcean 
-- DevOps: Kubernetes, Terraform, Ansible, Docker, Linux, CI/CD, Prometheus, Traefik Other: RabbitMQ, Kafka, GraphQL
+- DevOps: Kubernetes, Terraform, Ansible, Docker, Linux, CI/CD, Prometheus, Traefik 
+- Other: RabbitMQ, Kafka, GraphQL
 - Certifications: Certified Kubernetes Application Developer/Certified Kubernetes Administrator
 
 
