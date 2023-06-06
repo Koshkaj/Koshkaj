@@ -30,4 +30,4 @@ I'm always excited to meet fellow developers and discuss interesting ideas. Conn
 Feel free to reach out for collaborations, discussions, or even if you just want to say hi!
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=koshkaj)](https://github.com/koshkaj/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=koshkaj)](https://github.com/anuraghazra/github-readme-stats)
