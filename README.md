@@ -3,17 +3,15 @@
 I'm Davit, a passionate Backend & DevOps Engineer with expertise in Go, Python, and Kubernetes. I love building scalable and efficient systems that power modern applications.
 
 ### 🔭 Technologies and Tools
-- Programming Languages: Python, Go 
-
-- Databases: PostgreSQL, MongoDB, Redis
-- Clouds: AWS, GCP, DigitalOcean 
-- DevOps: Kubernetes, Terraform, Ansible, Docker, Linux, CI/CD, Prometheus, Traefik 
-- Other: RabbitMQ, Kafka, GraphQL
-- Certifications: Certified Kubernetes Application Developer/Certified Kubernetes Administrator
+- **Programming Languages**: Python, Go 
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **Clouds**: AWS, GCP, DigitalOcean 
+- **DevOps**: Kubernetes, Terraform, Ansible, Docker, Linux, CI/CD, Prometheus, Traefik 
+- **Other**: RabbitMQ, Kafka, GraphQL
+- **Certifications**: Certified Kubernetes Application Developer/Certified Kubernetes Administrator
 
 
 ### 🌱 Current Focus
-I'm currently focusing on:
 
 Developing microservices using Go and Python
 Automating infrastructure provisioning and management with Kubernetes
