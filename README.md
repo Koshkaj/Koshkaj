@@ -28,4 +28,4 @@ I'm always excited to meet fellow developers and discuss interesting ideas. Conn
 Feel free to reach out for collaborations, discussions, or even if you just want to say hi!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koshkaj&theme=onedark)](https://github.com/anuraghazra/github-readme-stats&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koshkaj&theme=onedark&hide_progress=true)
